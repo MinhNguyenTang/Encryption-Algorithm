@@ -56,5 +56,5 @@ def decrypt_file(file_path, output_file_path):
 
     return decrypted
 
-#encrypt_file('pessimistic_poem.txt', 'pessimistic_poem.txt')
+encrypt_file('pessimistic_poem.txt', 'pessimistic_poem.txt')
 decrypt_file('pessimistic_poem.txt', 'pessimistic_poem.txt')

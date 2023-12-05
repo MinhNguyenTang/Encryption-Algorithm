@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/Project/filekey.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Applying Examples/filekey.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Project_Bis_2/file1.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/Project_Bis_2/file2.txt" charset="UTF-8" />
   </component>
 </project>
