@@ -1,0 +1,8 @@
+'''
+            decrypted_seed = unlock_seed(loaded_enc_seed, user_input)
+                else:
+                    print("No existing seed found. Creating a new one.")
+                    new_seed = os.urandom(32)  # Génère une nouvelle seed aléatoire
+                    save_seed(new_seed)
+                    decrypted_seed = new_seed
+            '''
