@@ -97,8 +97,8 @@ if __name__ == '__main__':
     key = generate_key(loaded_enc_seed, key_length)
 
     input = 'file1.txt'
-    enc_file = 'file1.txt'
-    dec_file = 'file1.txt'
+    enc_file = 'file2.txt'
+    dec_file = 'file3.txt'
 
     a = xor_encrypt(input, enc_file, key)
     print(f'Encryption result : {a.decode("utf-8", errors="replace")}')
