@@ -101,7 +101,7 @@ if __name__ == '__main__':
     dec_file = 'file3.txt'
 
     a = xor_encrypt(input, enc_file, key)
-    print(f'Encryption result : {a.decode("utf-8", errors="replace")}')
+    print(a)
 
     b = xor_decrypt(enc_file, dec_file, key)
-    print(f'Decryption result : {b.decode("utf-8", errors="replace")}')
+    print(b)
